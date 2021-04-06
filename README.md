@@ -8,11 +8,15 @@ Some projects about video person re-identification
 
 [Co-Segmentation Inspired Attention Networks for Video-Based Person Re-Identification](https://github.com/InnovArul/vidreid_cosegmentation)
 
+Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-based Person Re-identification
+
 ## 3D conv
 [Appearance-Preserving 3D Convolution for Video-based Person Re-identification](https://github.com/guxinqian/AP3D)
 
 ## Graph
 [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification Edit social](https://github.com/daodaofr/hypergraph_reid)
+
+Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
 
 
 
