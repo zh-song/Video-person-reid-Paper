@@ -8,7 +8,7 @@ Some projects about video person re-identification
 
 [Co-Segmentation Inspired Attention Networks for Video-Based Person Re-Identification](https://github.com/InnovArul/vidreid_cosegmentation)
 
-## Align
+## 3D conv
 [Appearance-Preserving 3D Convolution for Video-based Person Re-identification](https://github.com/guxinqian/AP3D)
 
 ## Graph
