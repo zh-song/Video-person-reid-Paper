@@ -1,4 +1,4 @@
-# Video based person Re-id paper with code
+# Video-based Person Re-id Paper with code
 Some projects about video person re-identification
 
 ## RNN/LSTM
