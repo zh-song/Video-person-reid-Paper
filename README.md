@@ -5,6 +5,8 @@ Some projects about video person re-identification
 
 
 ## Attention
+[Revisiting Temporal Modeling for Video-based Person ReID](https://github.com/jiyanggao/Video-Person-ReID)
+
 [Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification ](https://github.com/zh-song/Diversity-Regularized-Spatiotemporal-Attention)
 
 [Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification](https://github.com/jackie840129/STE-NVAN)
