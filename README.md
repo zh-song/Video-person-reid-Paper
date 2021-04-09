@@ -1,6 +1,9 @@
 # Video-based Person Re-id Paper with code
 Some projects about video person re-identification
 
+## Training tricks
+[Bag of Tricks and A Strong Baseline for Deep Person Re-identification](https://github.com/michuanhaohao/reid-strong-baseline)
+
 ## RNN/LSTM
 
 
