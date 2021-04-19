@@ -4,6 +4,8 @@ Some projects about video person re-identification
 ## Training tricks
 [Bag of Tricks and A Strong Baseline for Deep Person Re-identification](https://github.com/michuanhaohao/reid-strong-baseline)
 
+[In Defense of the Triplet Loss for Person Re-Identification](https://github.com/kilsenp/triplet-reid-pytorch)
+
 ## RNN/LSTM
 
 
