@@ -25,6 +25,8 @@ Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-based 
 ## 3D conv
 [Appearance-Preserving 3D Convolution for Video-based Person Re-identification](https://github.com/guxinqian/AP3D)
 
+[Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](https://github.com/kenshohara/3D-ResNets-PyTorch)
+
 ## Graph
 [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification Edit social](https://github.com/daodaofr/hypergraph_reid)
 
